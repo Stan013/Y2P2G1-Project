@@ -3,7 +3,20 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Light
+  - Heat
+  - Sleep
+  - Ready
+  - lightText
+  - heatText
+  - sleepText
+  - Attract
+  - Objective
+  - objDone
+  - Checkmark1
+  - Checkmark2
+  - Checkmark3
   layers:
   - Default
   - TransparentFX
