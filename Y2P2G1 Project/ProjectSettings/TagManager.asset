@@ -17,6 +17,7 @@ TagManager:
   - Checkmark1
   - Checkmark2
   - Checkmark3
+  - Hand
   layers:
   - Default
   - TransparentFX
